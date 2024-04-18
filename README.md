@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome to Simone Pittaluga git repository 👋
+Simone received his bachelor's degree in geological sciences with a thesis on the development and application of geostatistical estimation methods on irregular spatial domains. He obtained the master degree in 2008 in geological sciences working on the estimation of mean elemental concentrations from river sediments applied to land use planning. In the same year he obtained the professional qualification and collaborated as professional consultant with the geochemistry laboratory at the University of Genova in the development of geochemical mapping exploiting geostatistical methods. During his professional activity he developed a commercial level software for seismic refraction tomography. Simone started working at CNR-IMATI in 2013 on topics related to the application of numerical methods to environmental themes with particular interest towards geostatistics.
 <!--
 **pitta1981/pitta1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
